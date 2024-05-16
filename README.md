@@ -1,2 +1,2 @@
 # ESTD
-Programas referentes a aula de estrutura de dados
+Programas em C++ sobre Estrutura de Dados
